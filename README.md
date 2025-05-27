@@ -23,7 +23,7 @@ We used **SHAP values** to understand feature importance and improve interpretab
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| `heart_disease_model.ipynb` | Jupyter notebook with full workflow |
+| `heart_disease_prediction.ipynb` | Jupyter notebook with full workflow |
 | `heart.csv` | Dataset used |
 | `shap_summary_all.png` | SHAP summary for all features |
 | `shap_continuous.png` | SHAP summary for continuous features |
